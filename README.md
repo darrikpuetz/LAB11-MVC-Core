@@ -39,8 +39,8 @@ Then select and open ```Lab 11 MVC`.sln```
 1.1: Finished the original version displaying to results page- 29 OCT 2019  
 
 ### Credit 
-1. [Converting_JSON] https://www.newtonsoft.com/json/help/html/LINQtoJSON.htm
-2. [Serializing] https://www.newtonsoft.com/json/help/html/SerializingJSON.htm
+1. [Index] (https://github.com/darrikpuetz/LAB11-MVC-Core/blob/master/MVC/Assets/index.PNG)
+2. [Results] (https://github.com/darrikpuetz/LAB11-MVC-Core/blob/master/MVC/Assets/results.PNG)
 
 
 
