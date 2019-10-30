@@ -30,7 +30,7 @@ Then select and open ```Lab 11 MVC`.sln```
 
 
 #### Using the Application
-![Index](ttps://github.com/darrikpuetz/LAB11-MVC-Core/blob/master/MVC/Assets/index.PNG)
+![Index](https://github.com/darrikpuetz/LAB11-MVC-Core/blob/master/MVC/Assets/index.PNG)
 ![Results](https://github.com/darrikpuetz/LAB11-MVC-Core/blob/master/MVC/Assets/results.PNG)
 
 ---
